@@ -1,4 +1,4 @@
-# ReactNativeFitnessAPPMANIPAL
+# ReactNativeFitnessAPP-MANIPAL
 WELCOME TO THE ONLY GITHUB OPENSOURCE REPO THAT IS GOING TO SAVE YOUR SORRY ASS BEFPORE YOUR CAPSTONE SEMESTER ASSIGNMENT: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 1)BITCHES LEARN CMD,BASH AND INSTALL npm AND npm install AFTER GIT CLONE [yo sorry ass using this template last night before submisson and i know it]
