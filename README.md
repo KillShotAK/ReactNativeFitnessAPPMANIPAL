@@ -3,7 +3,7 @@ WELCOME TO THE ONLY GITHUB OPEN-SOURCE REPO THAT IS GOING TO SAVE YOUR SORRY ASS
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 1)BITCHES LEARN CMD,BASH AND INSTALL npm AND npm install AFTER GIT CLONE [yo sorry ass using this template last night before submisson and i know it]
 2) Code. on vs code termnial [dumbass that is how you are gonna open the code that you totally didn't write]
-3) NPM START [And Enjoy your free marks you PLAGARIZING PIEICE OF SHIT ]
+3) NPM START [And Enjoy your free marks you PLAGARIZING PIECE OF SHIT ]
 .
 .
 .
@@ -42,4 +42,4 @@ WELCOME TO THE ONLY GITHUB OPEN-SOURCE REPO THAT IS GOING TO SAVE YOUR SORRY ASS
 .
 .
 
-4)Also Figure out the BACK-END server shit on your own,i know how to do it but i ain't telling you shit cuz i jam with satan now.
+4)Also Figure out the BACK-END server shit on your own,i know how to do it but i ain't telling you and nor am i uploading the code for that shit cuz i jam with satan now.
